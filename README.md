@@ -10,4 +10,4 @@ This repository contains questions which are solved in python.
    - It contains a function named **combination** which is used to generate all the pairs from a list.
 
 
-Integer_extractor : This file contains a code to extract all the integers from a given string.
+**Integer_extractor** : This file contains a code to extract all the integers from a given string.
