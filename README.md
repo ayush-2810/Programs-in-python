@@ -13,4 +13,4 @@ This repository contains questions which are solved in **python**.
 **Integer_extractor** : This file contains a code to extract all the **integers** from a given string.
 
 
-**length_of_longest_substring_without_repeating_characters** : This file contains a way to find length of longest substring of a string withour repeating characters.
+**length_of_longest_substring_without_repeating_characters** : This file contains a way to find length of **longest substring** of a string withour repeating characters.
