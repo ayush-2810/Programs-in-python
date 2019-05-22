@@ -13,6 +13,6 @@ This repository contains questions which are solved in **python**.
 **Integer_extractor** : This file contains a code to extract all the **integers** from a given string.
 
 
-**length_of_longest_substring_without_repeating_characters** : This file contains a way to find length of **longest substring** of a string without repeating characters.
+**Length_of_longest_substring_without_repeating_characters** : This file contains a way to find length of **longest substring** of a string without repeating characters.
    - Time complexity : O(n+d) (where n is length of the input string and d is number of characters in input string alphabet).
    - Space complexity : O(d)
