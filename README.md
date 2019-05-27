@@ -15,4 +15,4 @@ This repository contains questions which are solved in **python**.
 
 **Length_of_longest_substring_without_repeating_characters** : This file contains a way to find length of **longest substring** of a string without repeating characters.
    - **Time complexity** : O(n+d) (where n is length of the input string and d is number of characters in input string alphabet).
-   - Space complexity : O(d)
+   - **Space complexity** : O(d)
